@@ -1,4 +1,4 @@
-# Price_Prdiction_Using_NLP
+# Price_Prediction_Using_NLP
 
 Co-authored by Alex Jorenby and Jiehwan Yang
 
